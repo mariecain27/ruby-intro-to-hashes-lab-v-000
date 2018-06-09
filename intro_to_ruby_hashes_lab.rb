@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
- actor = {"actor_name" => "Bob"
+ actor = {"actor_name" => "Bob"}
  actor
 end
 
