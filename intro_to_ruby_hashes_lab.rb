@@ -5,7 +5,7 @@ end
 
 def actor
  actor = {"name" => "Dwayne The Rock Johnson"}
- actor
+ actor[name]
 end
 
 def monopoly
